@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/qr",
+      "destination": "https://trinkenmaclovios.lat",
+      "permanent": false
+    },
+    {
+      "source": "/maclovios",
+      "destination": "https://trinkenmaclovios.lat",
+      "permanent": false
+    },
+    {
+      "source": "/trinken",
+      "destination": "https://trinkenmaclovios.lat",
+      "permanent": false
+    }
+  ]
+}
